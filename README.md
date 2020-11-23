@@ -1,6 +1,14 @@
-# run-buddy
-11/16 9:46pm - encountered error when trying to push .gitignore and index.html from local machine to github:
-error: failed to push some refs to 'github.com:bctan87/run-buddy.git'
-The error prevented me from pushing index.html and .gitignore.
-Used "git push -f origin master" to go around the error.
-Push was a success, 2 files were pushed to github.
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Ben Tan
